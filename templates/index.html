@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sandstone Calculator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="calculator">
+    <h1>🧮 Basic Calculator</h1>
+
+    <form method="POST">
+
+        <input type="number" step="any" name="num1" placeholder="First Number" required>
+
+        <select name="operation">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+        </select>
+
+        <input type="number" step="any" name="num2" placeholder="Second Number" required>
+
+        <button type="submit">Calculate</button>
+
+    </form>
+
+    {% if result != "" %}
+    <div class="result">
+        Result: {{ result }}
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
