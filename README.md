@@ -17,11 +17,13 @@ https://newcal-4.onrender.com
 
 ### Home Page
 
-![Calculator Screenshot 1](screenshots/calculator-home.png)
+![Calculator Screenshot 1] <img width="750" height="681" alt="Screenshot 2026-06-10 132436" src="https://github.com/user-attachments/assets/5ca30471-217b-4a1e-b8e4-ff96af3064f3" />
+
 
 ### Calculation Example
 
-![Calculator Screenshot 2](screenshots/calculation-example.png)
+![Calculator Screenshot 2]<img width="760" height="593" alt="Screenshot 2026-06-10 132403" src="https://github.com/user-attachments/assets/e3e2cba2-e823-4e6a-b5da-fef1ab3a253e" />
+
 
 > Upload your screenshots inside a folder named **screenshots** and update the file names if needed.
 
