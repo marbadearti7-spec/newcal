@@ -6,7 +6,7 @@ A simple and responsive calculator built using **Python**, **Flask**, **HTML**, 
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [YOUR_RENDER_LIVE_LINK]
+🔗 **Live Website:** https://newcal-4.onrender.com
 
 Example:
 https://newcal-4.onrender.com
@@ -119,7 +119,7 @@ Live Link:
 
 **Arti Marbade**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: marbadearti7-spec
 
 ---
 
